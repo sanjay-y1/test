@@ -29,7 +29,7 @@ Context:
 
 Question: {question}
 
-Please provide a clear and concise answer, citing specific information from the context where relevant.
+Explain in detail using the context provided.
 """
 
 class RAGQueryEngine:
